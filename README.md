@@ -1,10 +1,11 @@
 ## Hi there 👋
 - 👋 I’m @rezafahrur
 - 🔭 I’m currently working on Politeknik Batu, Koperasi Jasa Berkah Sevate Nasional, Klinik Rawat Inap BeSt Medika & Koperasi Simpan Pinjam Berkah Sesama Jatim
-- 👀 I’m interested in building Backend, Database, DevOps, Web Apps
+- 👀 I’m interested in building Backend, Database, DevOps, Web App Development, UI/UX also my favorite topics
 - 🌱 I’m currently learning to Designing the systems that scales incrementally
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me? https://www.linkedin.com/in/rezafahrur
+- ⚡ Specialties: .Net Framework, C#, Node.js, Next.js, React, Laravel, Other Web App Development such as HTML5, CSS, Javascript, PHP
 <!--
 **rezafahrur/rezafahrur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
