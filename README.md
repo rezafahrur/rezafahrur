@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m @rezafahrur
+- 👋 I’m @rezafahrur
 - 🔭 I’m currently working on Politeknik Batu, Koperasi Jasa Berkah Sevate Nasional, Klinik Rawat Inap BeSt Medika & Koperasi Simpan Pinjam Berkah Sesama Jatim
 - 👀 I’m interested in building Backend, Database, DevOps, Web Apps
 - 🌱 I’m currently learning to Designing the systems that scales incrementally
